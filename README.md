@@ -1,3 +1,9 @@
+- 👋 Hi, I’m Xin Yee
+- 🌱 I’m currently learning Bachelor of Degree in Computer Science(Data Engineering)
+- 💞️ I’m thoroughly enjoying swimming and indulging in delicious food
+- 📫 How to reach me: **xinyeeteoh0610@gmail.com**
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teoh-xin-yee-283377275) 
